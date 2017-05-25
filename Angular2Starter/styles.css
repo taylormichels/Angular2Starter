@@ -1,0 +1,22 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+table {
+    width: 60%;
+    background-color: lightgrey;
+}
+
+td {
+    text-align:center;
+}
+
+body, select {
+    font-size: 18px;
+}
+
+label, select { padding: 5px; }
+
+th { width: 50%; }
